@@ -168,22 +168,10 @@ body
     text-align: center;
     padding: 54px;
 }
-.co1
-{
-    height: 70px;
-    width: 70px;
-    text-align: center;
-    padding: 49px;  
-}
-.icon1
-{
-    height: 70px;
-    width: 70px;
-}
 .icon
 {
-    height: 60px;
-    width: 60px; 
+    height: 100%;
+    width: 100%; 
 }
 footer
 {
